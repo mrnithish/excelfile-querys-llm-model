@@ -1,0 +1,67 @@
+﻿S.No.,Name,Discrete Mathematics,,Computer Organization and Architecture,,Agile Software Engineering,,Data structure,,Quantitative Aptitude and Reasoning,,Digital Circuits,,Mini Project-II,,Personality Development,,Data structures Lab,,"Python Programming 
+Laboratory",,No. of arrears,arrear subject name,no of subject pass,SGPA
+,,grade,points,grade,points,grade,points,grade,points,grade,points,grade,points,grade,points,grade,points,grade,points,grade,points,,,,
+1,hari,B,6,B+,7,A,8,A,8,B+,7,B+,7,A+,9,A+,9,A+,9,A+,9,0,,10,7.56
+2,ben,B+,7,A,8,B+,7,A,8,B+,7,B+,7,O,10,A+,9,O,10,O,10,0,,10,7.88
+3,gwen,A,8,A,8,B+,7,A,8,A,8,A,8,O,10,A+,9,O,10,O,10,0,,10,8.28
+4,tim,A,8,A+,9,A+,9,A+,9,A+,9,A+,9,O,10,A+,9,O,10,O,10,0,,10,9
+5,tom,A,8,A,8,A+,9,A+,9,A+,9,A+,9,O,10,O,10,O,10,O,10,0,,10,8.96
+6,vel,A,8,A,8,A,8,A,8,A+,9,A,8,O,10,A+,9,O,10,O,10,0,,10,8.48
+7,seme,A,8,A+,9,B+,7,A+,9,A,8,A,8,O,10,A+,9,O,10,A+,9,0,,10,8.44
+8,visal,A,8,A,8,A+,9,A,8,A,8,A+,9,O,10,A+,9,O,10,A+,9,0,,10,8.6
+9,arya,B,6,B,6,C,5,B,6,B+,7,B,6,A+,9,A+,9,A+,9,A+,9,0,,10,6.68
+10,benny,A,8,B+,7,A+,9,A,8,A,8,A,8,O,10,O,10,O,10,O,10,0,,10,8.48
+11,john,B+,7,B+,7,C,5,B+,7,A,8,B,6,O,10,A+,9,O,10,A+,9,0,,10,7.24
+12,cook,B,6,B,7,B,6,B,7,A,8,A,8,A,9,A,9,A,9,A,9,0,,10,7.44
+13,koreasr,B,6,A,8,B,6,B+,7,A,8,B+,7,A+,9,A+,9,A+,9,A+,9,0,,10,7.4
+14,niki,A,7,B,7,B,6,B+,7,A,8,B+,7,A+,10,O,9,A+,8,B,9,0,,10,8.5
+15,usop,B+,7,A,8,B+,7,B+,7,A,8,A,8,O,10,A+,9,A+,9,A+,9,0,,10,7.6
+16,luggy,B+,7,A,8,B+,7,A,8,A,8,A,8,A+,9,A+,9,A+,9,A+,9,0,,10,7.96
+17,byus,A,8,A,8,C,5,B,6,A,8,U,-,A,8,A,8,A+,9,A,8,1,digital circuits,9,7.33
+18,jresa,A,8,O,10,A+,9,A,8,B+,7,A,8,O,10,A+,9,O,10,O,10,0,,10,8.68
+19,jesna,A,8,A+,9,A,8,A,8,A,8,A+,9,O,10,A+,9,O,10,O,10,0,,10,8.68
+20,deepi,B+,7,A,8,B,6,B+,7,A,8,B+,7,O,10,A+,9,O,10,O,10,0,,10,7.72
+21,ken,C,5,A,8,B,6,A+,9,A+,9,A+,9,A+,9,A+,9,A+,9,A+,9,0,,10,7.2
+22,barbie,B+,7,A,8,B+,7,A,8,B+,7,B+,7,A+,9,A,8,O,10,A+,9,0,,10,7.68
+23,nika,A,8,A,8,B+,7,A,8,A,8,A,8,O,10,A+,9,O,10,O,10,0,,10,8.28
+24,god d,A,8,A+,9,A,8,B+,7,A,8,A,8,O,10,A+,9,O,10,O,10,0,,10,8.4
+25,roger,B+,7,A,8,B+,7,B+,7,B+,7,A,8,A+,9,A+,9,A+,9,A+,9,0,,10,7.76
+26,dsa,B+,7,B+,7,B+,7,A,8,A,8,A,8,O,10,A+,9,O,10,O,10,0,,10,8
+27,vsyaw,B+,7,A+,9,B+,7,A,8,B,6,B+,7,O,10,A+,9,O,10,O,10,0,,10,7.92
+28,vixkdr,B,6,B,6,U,,B,6,B,6,B,6,A+,9,A,8,A+,9,A,8,1,,9,6.64
+29,vike,B+,7,B+,7,B,6,A,8,A,8,B+,7,A+,9,A,8,A+,9,A+,9,0,,10,7.4
+30,nike,A,8,A,8,B+,7,A,8,A,8,A,8,A+,9,A+,9,O,10,A+,9,0,,10,8.16
+31,sike,B+,7,B+,7,B+,7,B+,7,B+,7,U,-,O,10,A+,9,O,10,A+,9,1,DIGITAL CIRCUITS,9,7.67
+32,nummy,A,8,A,8,A,8,A,8,A+,9,A,8,O,10,O,10,O,10,O,10,0,,10,8.56
+33,chum,A+,9,B+,7,A+,9,A+,9,A+,9,A+,9,O,10,A+,9,O,10,O,10,0,,10,8.64
+34,san,B+,7,A,8,B+,7,A,8,A+,9,A,8,O,10,A,8,O,10,O,10,0,,10,8.12
+35,deegk,A,8,A+,9,B+,7,A,8,A,8,A,8,O,10,A+,9,O,10,O,10,0,,10,8.4
+36,greek,C,5,B+,7,B+,7,B,6,A,8,B+,7,O,10,A,8,O,10,A+,9,0,,,
+37,sibna,A,8,A,8,A,8,B+,7,A,8,A,8,A+,9,A,8,A+,9,A,8,0,,10,7.96
+38,son,A,8,A+,9,B+,7,A+,9,A,8,A,8,O,10,A,8,O,10,O,10,0,,10,8.44
+39,goke,B,6,A,8,A,8,A,8,A,8,B+,7,A+,9,A+,9,A+,9,A+,9,0,,10,7.76
+40,naruto,B+,7,B+,7,B+,7,A,8,B+,7,B+,7,A+,9,A,8,A+,9,A+,9,0,,10,7.52
+41,luffy,U,-,B+,7,C,5,B,6,A,8,B+,7,A+,9,A+,9,A+,9,A+,9,1,DISCRETE MATHEMATICS,9,7.24
+42,sanji,A,8,A+,9,B+,7,A,8,A,8,A+,9,O,10,A+,9,O,10,O,10,0,,10,8.56
+43,zoro,A,8,B+,7,B,6,B+,7,A,8,B+,7,A+,9,A+,9,O,10,A+,9,0,,10,7.64
+44,tore,B+,7,B+,7,B+,7,B+,7,B+,7,B+,7,O,10,A+,9,O,10,A+,9,0,,10,7.56
+45,yamisa,A,8,A,8,A,8,A+,9,O,10,A,8,O,10,A+,9,O,10,O,10,0,,10,8.68
+46,kirito,B,6,A,8,B+,7,A,8,A,8,A,8,A+,9,A+,9,O,10,O,10,0,,10,7.92
+47,asuna,A+,9,A+,9,A,8,A,8,A+,9,A,8,O,10,A+,9,O,10,O,10,,,10,8.6
+48,kevin,A+,9,A+,9,B+,7,A,8,A+,9,A,8,O,10,A+,9,O,10,O,10,0,,10,8.64
+49,timmy,B,6,A,8,B,6,B+,7,A,8,B+,7,A+,9,A,8,O,10,A+,9,0,,10,7.36
+50,prathee,A,8,A,8,A+,9,A,8,A+,9,A,8,O,10,O,10,O,10,O,10,0,,10,8.68
+51,prabea,A,8,A,8,A+,9,A+,9,U,,A,8,O,10,O,10,O,10,O,10,1,VQAR,9,8.78
+52,prabu,A,8,B,6,B,6,A,8,A,8,B+,7,A+,9,A,8,A+,9,A+,9,0,,10,7.52
+53,yogi,A,8,B,6,B,6,A,8,A,8,B+,7,O,10,A+,9,O,10,O,10,0,,10,7.76
+54,sandy,A,8,A,8,B+,7,B+,7,A,8,B+,7,O,10,O,10,O,10,A+,9,0,,10,8
+55,krish,A,8,A,8,A+,9,A,8,A,8,A,8,O,10,A+,9,O,10,O,10,0,,10,8.52
+56,rithu,B+,7,A,8,B,6,B+,7,A,8,B+,7,A+,9,A,8,A+,9,A+,9,0,,10,7.48
+57,nithu,B+,7,A,8,A,8,A,8,A,8,B+,7,O,10,A+,9,O,10,A+,9,0,,10,8
+58,jimiki,C,5,B,6,U,-,B,6,A,8,B+,7,A+,9,A,8,O,10,A+,9,1,Agile Software Engineer,9,6.95
+59,sithu,B,6,U,-,C,5,B+,7,A,8,U,-,A+,9,A,8,O,10,A+,9,2,DIGITAL CIRCUITS /Computer Organization and Architecture,8,7.17
+60,mithu,U,-,B+,7,U,-,A,8,B+,7,B+,7,A+,9,A,8,A+,9,A+,9,2,AGILE SOFTWARE ENGINEERING & DISCRETE MATHEMATICS,8,7.72
+61,pithu,B,6,B,6,C,5,B+,7,A,8,U,-,A+,9,A,8,A+,9,A,8,1,DIGITAL CIRCUITS,9,6.86
+62,nimki,B+,7,B+,7,C,5,B,6,A,8,A,8,A+,9,A+,9,A+,9,A,8,0,,10,7.28
+63,marnaen,A,8,B,6,B,6,B+,7,B+,7,U,-,A+,9,A+,9,O,10,A+,9,1,DIGITAL CIRCUITS,9,7.52
+64,ponnu,B,6,A,8,B,6,B+,7,A,8,B+,7,O,10,A+,9,O,10,O,10,0,,10,7.56
